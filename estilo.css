@@ -23,3 +23,10 @@ header{
     border: 1px solid;
     margin: 0px auto;
 }
+
+#footer{
+    background: gray;
+    color: aqua;
+    text-align: center;
+    border: 1px solid blue;
+}
