@@ -7,6 +7,15 @@ body{
     padding: 0px;
 }
 
+header{
+    background: red;
+    box-shadow: 1px 2px 20px 0px grey;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0px;
+}
+
 #container{
     width: 70%;
     padding: 1em;
